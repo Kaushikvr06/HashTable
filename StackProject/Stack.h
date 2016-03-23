@@ -28,6 +28,14 @@ class Stack
     };
     
     item* StackPtr; //Always points to the top of the stack.
+    
+public:
+    void push(string name, int value);
+    void pop();
+    void ReadItem (item* r);
+    void Print();
+    Stack();
+    ~Stack();
 };
 
 

@@ -1,2 +1,3 @@
-# HashTable
-A simple Hash Table implementation in C++
+#Stack
+
+Implementation of Stacks using C++
